@@ -8,6 +8,6 @@ The results were encouraging, with logistic regression predicting the correct ou
 
 The best features were chosen from hundreds generated.
 
-![best_features](
+![best_features](https://github.com/colekev/sports-betting-analysis/blob/master/sports_betting_best_features.png)
 
 Feel free to view my [project code](https://github.com/colekev/sports-betting-analysis/blob/master/football_analysis.ipynb) and [presentation](https://github.com/colekev/sports-betting-analysis/blob/master/mcnulty_presentation.pdf).
