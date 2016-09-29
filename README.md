@@ -6,4 +6,8 @@ This analysis used Python's sciket-learn package to perform logisitic regression
 
 The results were encouraging, with logistic regression predicting the correct outcome with an accurary score of nearly 55 percent on the test data set.
 
-Feel free to view my [project code](https://github.com/colekev/sports-betting-analysis/blob/master/football_analysis.ipynb) and [presentation](xxxx)
+The best features were chosen from hundreds generated.
+
+![best_features](
+
+Feel free to view my [project code](https://github.com/colekev/sports-betting-analysis/blob/master/football_analysis.ipynb) and [presentation](https://github.com/colekev/sports-betting-analysis/blob/master/mcnulty_presentation.pdf).
