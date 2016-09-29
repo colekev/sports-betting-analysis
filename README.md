@@ -10,7 +10,7 @@ The best features were chosen from hundreds generated.
 
 ![best_features](https://github.com/colekev/sports-betting-analysis/blob/master/sports_betting_best_features.png)
 
-And a visualization of how the different algorithms performed over time, with the break-even percentage marked.
+And a visualization of how the different algorithms performed over time, with the break-even percentage marked with the dashed line.
 
 ![models_over_time](https://github.com/colekev/sports-betting-analysis/blob/master/sports_betting_accuracy_scores.png)
 
